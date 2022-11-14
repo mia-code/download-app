@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.8.2",
+  "latestVersion": "1.8.4",
   "url": "https://github.com/mia-code/download-app/raw/main/LSIJ-release.apk",
   "releaseNotes": [
-    "- Improved design",
+    "- New norms",
     "- Bug fixes",
-    "- Registration feature"
+    "- Improved usability"
   ]
 }
